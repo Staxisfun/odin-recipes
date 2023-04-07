@@ -1,0 +1,40 @@
+
+.background {
+  background-color: saddlebrown;
+}
+
+#main-title {
+  font-size: 100px;
+text-align: center;
+color: darkred;
+background-color: peru;
+font-family: monospace;
+}
+
+.title {
+  font-size: 60px;
+  color: darkred;
+  background-color: peru;
+  font-family: monospace;
+}
+
+.header {
+  font-size: 40px;
+  color: darkred;
+  background-color: peru;
+  font-family: monospace;
+}
+
+.text {
+  font-size: 25px;
+  color: black;
+  font-family: monospace;
+  font-style: italic;
+  font-weight: bold;
+}
+
+#link {
+  font-size: 50px;
+  margin-bottom: 60px;
+  color: rgb(93, 2, 2);
+}
